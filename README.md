@@ -9,7 +9,7 @@ This repository contains a Power BI dashboard designed to provide comprehensive 
 - **Time-Based Trends**: Analyzes sales over time, including monthly and yearly comparisons.
 - **Interactive Filters**: Provides interactive filters for users to explore data by product, region, and time period.
 
-![Sales Insight Dashboard](Assets/Sales Insight Dashboard.png)
+![Sales Insight Dashboard](Assets/Dashboard.png)
 
 ## Prerequisites
 
