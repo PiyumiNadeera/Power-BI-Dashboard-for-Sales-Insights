@@ -9,7 +9,7 @@ This repository contains a Power BI dashboard designed to provide comprehensive 
 - **Time-Based Trends**: Analyzes sales over time, including monthly and yearly comparisons.
 - **Interactive Filters**: Provides interactive filters for users to explore data by product, region, and time period.
 
-![Sales Insight Dashboard](Assets/SalesInsightDashboard.png)
+![Sales Insight Dashboard](Assets/Sales Insight Dashboard.png)
 
 ## Prerequisites
 
@@ -22,3 +22,20 @@ To view and interact with the dashboard, you will need the following:
 1. **Clone this repository**:
    ```bash
    https://github.com/PiyumiNadeera/Power-BI-Dashboard-for-Sales-Insights.git
+
+2. **Open the Power BI file:**
+Navigate to the folder where you cloned the repository.
+Open the .pbix file (Power BI file) using Power BI Desktop.
+
+3. **Connect to your dataset:**
+In Power BI, click on Get Data and choose the appropriate data source (e.g.: Excel).
+Import your sales data to populate the dashboard.
+
+4. **Explore the dashboard:**
+
+Use the interactive filters to view different metrics based on product, region and time period.
+Review the visualizations for insights into sales performance, trends, and product analysis.
+
+## Contact
+For any questions or feedback, feel free to reach out to:
+Author: Piyumi Nadeera (dlpnadeera1234@gmail.com)
