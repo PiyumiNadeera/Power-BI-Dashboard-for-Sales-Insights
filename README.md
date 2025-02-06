@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard designed to provide comprehensive 
 - **Regional Sales**: Breaks down sales performance by region to identify areas for growth.
 - **Time-Based Trends**: Analyzes sales over time, including monthly and yearly comparisons.
 - **Interactive Filters**: Provides interactive filters for users to explore data by product, region and time period.
-- 
+  
 
 ![Sales Insight Dashboard](Assets/Dashboard.png)
 
