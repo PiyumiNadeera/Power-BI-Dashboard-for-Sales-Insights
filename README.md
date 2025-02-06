@@ -1,2 +1,24 @@
 # Power-BI-Dashboard-for-Sales-Insights
 This repository contains a Power BI dashboard designed to provide comprehensive sales insights. The dashboard visualizes key metrics such as sales performance, revenue trends, product analysis, and regional performance, enabling users to gain valuable insights into business growth and opportunities. 
+
+## Features
+
+- **Sales Performance Overview**: Visualizes overall sales data with key metrics like revenue, total units sold, and growth trends.
+- **Product Analysis**: Displays insights into the best and worst performing products.
+- **Regional Sales**: Breaks down sales performance by region to identify areas for growth.
+- **Time-Based Trends**: Analyzes sales over time, including monthly and yearly comparisons.
+- **Interactive Filters**: Provides interactive filters for users to explore data by product, region, and time period.
+
+![Sales Insight Dashboard](Assets/Sales%20Insight%20Dashboard.png)
+
+## Prerequisites
+
+To view and interact with the dashboard, you will need the following:
+- Power BI Desktop (or Power BI Service)
+- A dataset containing sales data 
+
+## How to Use
+
+1. **Clone this repository**:
+   ```bash
+   https://github.com/PiyumiNadeera/Power-BI-Dashboard-for-Sales-Insights.git
