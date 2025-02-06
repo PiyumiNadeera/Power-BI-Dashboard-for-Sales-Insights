@@ -3,11 +3,12 @@ This repository contains a Power BI dashboard designed to provide comprehensive 
 
 ## Features
 
-- **Sales Performance Overview**: Visualizes overall sales data with key metrics like revenue, total units sold, and growth trends.
-- **Product Analysis**: Displays insights into the best and worst performing products.
+- **Sales Performance Overview**: Visualizes overall sales data with key metrics like revenue and growth trends.
+- **Product and Category Analysis**: Displays insights into the best and worst performing products.
 - **Regional Sales**: Breaks down sales performance by region to identify areas for growth.
 - **Time-Based Trends**: Analyzes sales over time, including monthly and yearly comparisons.
-- **Interactive Filters**: Provides interactive filters for users to explore data by product, region, and time period.
+- **Interactive Filters**: Provides interactive filters for users to explore data by product, region and time period.
+- 
 
 ![Sales Insight Dashboard](Assets/Dashboard.png)
 
@@ -24,10 +25,12 @@ To view and interact with the dashboard, you will need the following:
    https://github.com/PiyumiNadeera/Power-BI-Dashboard-for-Sales-Insights.git
 
 2. **Open the Power BI file:**
+   
 Navigate to the folder where you cloned the repository.
 Open the .pbix file (Power BI file) using Power BI Desktop.
 
 3. **Connect to your dataset:**
+   
 In Power BI, click on Get Data and choose the appropriate data source (e.g.: Excel).
 Import your sales data to populate the dashboard.
 
